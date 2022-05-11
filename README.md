@@ -3,7 +3,7 @@ This project is a collaboration between Christiana Etok and Ojonuba Jeremiah, ac
 The "Simple_shell" is a program that can be compiled and launched from the command line, where its main function is to execute commands read from the standard input.  It contains some of the basic features and functions found in the various shell programs like Kernel commands and builtin commands.
 # Quick Start
 1. Git clone this respository to your local directory.
->https://github.com/adexino0606/Simple_Shell.git
+>https://github.com/spartan124/simple_shell.git
 2. Compile the program.
 >$ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 3. Now execute the shell.
